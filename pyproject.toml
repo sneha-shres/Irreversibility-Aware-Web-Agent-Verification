@@ -1,0 +1,17 @@
+[project]
+name = "irrgate"
+version = "0.1.0"
+description = "Retrospective evaluator for the IrrGate safety gating system"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=1.4.0",
+  "huggingface_hub>=0.20.0",
+  "numpy>=1.22.0",
+  "python-dotenv>=1.0.0",
+  "google-genai>=1.0.0",
+  "pyarrow>=12.0.0",
+]
+
+[tool.pytest.ini_options]
+addopts = ["-q"]

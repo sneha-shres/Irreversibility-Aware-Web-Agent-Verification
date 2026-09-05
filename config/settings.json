@@ -1,0 +1,6 @@
+{
+  "eval_set": "data/eval_set.json",
+  "trajectory_dir": "data/raw",
+  "tau_d": 10.0,
+  "tau_pi": 6
+}

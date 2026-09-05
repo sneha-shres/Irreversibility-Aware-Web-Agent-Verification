@@ -1,0 +1,428 @@
+[
+  {
+    "trajectory_id": "workarena.servicenow.infeasible-navigate-and-order-apple-watch-l2::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "workarena.servicenow.infeasible-navigate-and-order-apple-watch-l2",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 10.1,
+    "irr_pos": 12,
+    "level_counts": {
+      "L0": 12,
+      "L2": 7,
+      "L1": 6,
+      "L3": 6
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "workarena.servicenow.infeasible-navigate-and-order-development-laptop-p-c-l2::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "workarena.servicenow.infeasible-navigate-and-order-development-laptop-p-c-l2",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 3.3000000000000003,
+    "irr_pos": 7,
+    "level_counts": {
+      "L0": 25,
+      "L1": 3,
+      "L3": 3
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.561::GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "task_id": "webarena.561",
+    "model": "GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 11.7,
+    "irr_pos": 6,
+    "level_counts": {
+      "L2": 22,
+      "L1": 7,
+      "L0": 2
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.701::GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "task_id": "webarena.701",
+    "model": "GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 27.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 27,
+      "L0": 4
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.778::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.778",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "workarena.servicenow.infeasible-navigate-and-order-apple-mac-book-pro15-l2::GenericAgent-gpt-4o-2024-11-20",
+    "task_id": "workarena.servicenow.infeasible-navigate-and-order-apple-mac-book-pro15-l2",
+    "model": "GenericAgent-gpt-4o-2024-11-20",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 7.999999999999998,
+    "irr_pos": 13,
+    "level_counts": {
+      "L0": 14,
+      "L1": 10,
+      "L3": 7
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "workarena.servicenow.infeasible-navigate-and-order-apple-watch-with-reason-l2::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "workarena.servicenow.infeasible-navigate-and-order-apple-watch-with-reason-l2",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 9.099999999999996,
+    "irr_pos": 11,
+    "level_counts": {
+      "L1": 11,
+      "L0": 9,
+      "L2": 6,
+      "L3": 5
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.666::GenericAgent-gpt-4o-2024-11-20",
+    "task_id": "webarena.666",
+    "model": "GenericAgent-gpt-4o-2024-11-20",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 4.999999999999998,
+    "irr_pos": 6,
+    "level_counts": {
+      "L1": 25,
+      "L2": 5,
+      "L0": 1
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "workarena.servicenow.infeasible-navigate-and-order-apple-mac-book-pro15-with-reason-l2::GenericAgent-gpt-4o-2024-11-20",
+    "task_id": "workarena.servicenow.infeasible-navigate-and-order-apple-mac-book-pro15-with-reason-l2",
+    "model": "GenericAgent-gpt-4o-2024-11-20",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 7.999999999999998,
+    "irr_pos": 13,
+    "level_counts": {
+      "L0": 14,
+      "L1": 10,
+      "L3": 7
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.471::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.471",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 24,
+    "d_I": 23.0,
+    "irr_pos": 5,
+    "level_counts": {
+      "L3": 23,
+      "L0": 1
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "workarena.servicenow.infeasible-navigate-and-order-apple-watch-with-reason-l2::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "workarena.servicenow.infeasible-navigate-and-order-apple-watch-with-reason-l2",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 4.5,
+    "irr_pos": 7,
+    "level_counts": {
+      "L0": 25,
+      "L2": 3,
+      "L3": 3
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.289::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "webarena.289",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.144::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.144",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 20.0,
+    "irr_pos": 4,
+    "level_counts": {
+      "L3": 20,
+      "L0": 11
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.790::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.790",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 4,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.776::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.776",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 2,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.704::GenericAgent-gpt-4o-2024-11-20",
+    "task_id": "webarena.704",
+    "model": "GenericAgent-gpt-4o-2024-11-20",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 2,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.417::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.417",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 15.0,
+    "irr_pos": 1,
+    "level_counts": {
+      "L2": 30,
+      "L0": 1
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.790::GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "task_id": "webarena.790",
+    "model": "GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 28.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 28,
+      "L0": 3
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.583::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.583",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 12.1,
+    "irr_pos": 7,
+    "level_counts": {
+      "L2": 23,
+      "L1": 6,
+      "L0": 2
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.666::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.666",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 15.0,
+    "irr_pos": 1,
+    "level_counts": {
+      "L2": 30,
+      "L0": 1
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.593::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.593",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 14.5,
+    "irr_pos": 2,
+    "level_counts": {
+      "L2": 29,
+      "L0": 2
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.696::GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "task_id": "webarena.696",
+    "model": "GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 20.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 20,
+      "L0": 11
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.778::GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "task_id": "webarena.778",
+    "model": "GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.710::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "webarena.710",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 1,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.144::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "webarena.144",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 30.0,
+    "irr_pos": 7,
+    "level_counts": {
+      "L3": 30,
+      "L0": 1
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.704::GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "task_id": "webarena.704",
+    "model": "GenericAgent-meta-llama_Llama-3.3-70B-Instruct",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 31.0,
+    "irr_pos": 4,
+    "level_counts": {
+      "L3": 31
+    },
+    "heuristic_category": "b_multi_L3"
+  },
+  {
+    "trajectory_id": "webarena.177::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "webarena.177",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "webarena",
+    "n_steps": 31,
+    "d_I": 10.7,
+    "irr_pos": 22,
+    "level_counts": {
+      "L2": 21,
+      "L0": 8,
+      "L1": 2
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.666::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "webarena.666",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "webarena",
+    "n_steps": 25,
+    "d_I": 3.200000000000001,
+    "irr_pos": 7,
+    "level_counts": {
+      "L1": 17,
+      "L0": 5,
+      "L2": 3
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "workarena.servicenow.two-changes-wide-priority-uniform-risk-change-request-scheduling-l2::GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "task_id": "workarena.servicenow.two-changes-wide-priority-uniform-risk-change-request-scheduling-l2",
+    "model": "GenericAgent-Qwen_Qwen2.5-VL-72B-Instruct",
+    "benchmark": "workarena",
+    "n_steps": 31,
+    "d_I": 4.899999999999998,
+    "irr_pos": 8,
+    "level_counts": {
+      "L1": 14,
+      "L0": 10,
+      "L2": 7
+    },
+    "heuristic_category": "c_L2_only"
+  },
+  {
+    "trajectory_id": "webarena.700::GenericAgent-anthropic_claude-3.7-sonnet",
+    "task_id": "webarena.700",
+    "model": "GenericAgent-anthropic_claude-3.7-sonnet",
+    "benchmark": "webarena",
+    "n_steps": 15,
+    "d_I": 14.0,
+    "irr_pos": 3,
+    "level_counts": {
+      "L3": 14,
+      "L0": 1
+    },
+    "heuristic_category": "b_multi_L3"
+  }
+]
